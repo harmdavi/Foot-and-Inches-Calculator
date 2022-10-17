@@ -42,5 +42,6 @@ toFeet.addEventListener("click", () => {
     userOutput.textContent = total;
   } catch {}
   //I am adding a commment to see how to do stuff in git hub did it work?
-  
+
+  //just made a change on the silver computer
 });
